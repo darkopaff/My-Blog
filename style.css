@@ -1,0 +1,92 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(aboutbackground.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+h1 {
+	font-size: 3rem;
+	color: #e2dbdb;
+}
+
+h3 {
+	color: #e2dbdb
+}
+
+.futer {
+	color: #e2dbdb
+}
+
+.drugiheder {
+	text-align: center;
+}
+
+/* Linija iznad dugmeta find out more */
+.linijadugme {
+	border-color: #F05F44;
+	border-width: 3px;
+	max-width: 65px;
+}
+
+/* Linija ispod naslova */
+.linija2 {
+	border-color: #F05F44;
+	border-width: 3px;
+	max-width: 700px;
+	padding-bottom: 20px;
+}
+
+/* Prazan prostor izmedju naslova na pocetnoj i dugmeta "find out more" */
+.buffer {
+	height: 10rem;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-primary {
+	background-color: #F05F44;
+	border-color: #F05F44;
+}
+
+.btn-primary:hover {
+	background-color: #ee4b08;
+	border-color: #F05F44;
+	border-width: 4px;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+}
+
+.container {
+	margin-left: 170px;
+}
+
+.lista {
+	color: #e2dbdb;
+}
+
+img {
+	height: 60%;
+	width: 28%;
+	border: 1px solid black;
+	border-radius: 15px;
+}
+
+#zadnje {
+	color: #e2dbdb;
+	border: 1px solid white;
+	border-radius: 30px 0px 30px 0px;
+	background-color: #F05F44;
+	padding: 10px;
+	margin-bottom: 80px;
+	margin-left: 300px;
+	margin-right: 300px;
+
+}
